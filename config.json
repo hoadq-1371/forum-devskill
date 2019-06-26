@@ -1,5 +1,5 @@
 {
-    "url": "http://localhost:4567",
+    "url": "https://forum-devskill.herokuapp.com",
     "secret": "5557f4df-c790-4747-b773-0f6713985ac1",
     "database": "mongo",
     "port": "4567",
